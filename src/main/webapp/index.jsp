@@ -10,8 +10,8 @@
                 <p class="text-center text-8xl">🥩</p>
                 <p class="text-center text-8xl">🍗</p>
                 <p class="text-center text-8xl">🍘</p>
-                <p class="text-center text-8xl">🍚</p>
-                <p class="text-center text-8xl hidden md:block">🍙</p>
+                <p class="text-center text-8xl">🍙</p>
+                <p class="text-center text-8xl hidden md:block">🍚</p>
             </div>
         </div>
 
